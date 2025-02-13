@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**TelisAnt/TelisAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Currently studying Computer Science at the University of Piraeus.**
 
-Here are some ideas to get you started:
+🎓 **Education:**  
+   - **Bachelor of Science (BSc) in Computer Science**  
+   - **Relevant Coursework:**  
+     - Algorithms and Data Structures  
+     - Software Engineering  
+     - Database Systems  
+     - Operating Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤟 My interests include Software Development, Web Development, Game Development, Cybersecurity, Open Source Projects
+
+---
+
+### **Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+
+---
+
+### **Platforms**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
+
+---
+
+### **Contact**  
+📧 **Email:** telisantonop@gmail.com  
+🐙 **GitHub:** [github.com/TelisAnt](https://github.com/TelisAnt)  
